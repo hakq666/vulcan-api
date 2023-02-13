@@ -1,0 +1,10 @@
+[package]
+name = "vulcan-api"
+version = "0.1.0"
+authors = ["hakq666 <hakq@tuta.io>"]
+edition = "2021"
+description = "Vulcan UONET+ API"
+readme = "README.md"
+license = "MIT"
+
+[dependencies]
